@@ -5,7 +5,7 @@ I'm a math student at University of Trent.
 ### Education 
 
 1. Bachelor thesis: "Metodi risolutivi per le equazioni di Pell" which is basically a
-    ~$40$ pages long essay on various method to solve [Pell'equations](https://en.wikipedia.org/wiki/Pell%27s_equation) and its generalizations. 
+    ~\(40\) pages long essay on various method to solve [Pell'equations](https://en.wikipedia.org/wiki/Pell%27s_equation) and its generalizations. 
     A selected bibliography:         
         - [Barbeau, Edward J., _Pell's Equation_](https://www.springer.com/gp/book/9780387955292)      
         - [Murru, N., _Solving the Pell equation via Rédei rational functions_](https://arxiv.org/abs/1103.3762)         
@@ -28,6 +28,6 @@ I'm a math student at University of Trent.
 Why is your username `ladezai`?     
 
 It sounds similar to 辣的菜 which means `spicy dishes`.
-Mainly it's because I love spicy dishes, although I hate wasabi, 
+Because I love spicy dishes, although I hate wasabi, 
 and chinese sounds fancy. Furthermore names, as well as usernames, 
 are better when they are meaningless.  
